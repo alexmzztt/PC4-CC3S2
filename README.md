@@ -133,15 +133,25 @@ Un hello world de varias estapas
 
 ![pipeline_stageview](https://github.com/alexmzztt/PC4-CC3S2/blob/main/.assets/pipeline_stageview.jpg)
 
+![salida_de_consola_1](https://github.com/alexmzztt/PC4-CC3S2/blob/main/.assets/salida_de_consola_1.jpg)
 
+Para el segundo pipeline
 
+![codigo_pipeline2](https://github.com/alexmzztt/PC4-CC3S2/blob/main/.assets/codigo_pipeline2.jpg)
 
+![pipeline2_stageview](https://github.com/alexmzztt/PC4-CC3S2/blob/main/.assets/pipeline2_stageview.jpg)
 
+Calculator
 
+![codigo_calculator](https://github.com/alexmzztt/PC4-CC3S2/blob/main/.assets/codigo_calculator.jpg)
 
+![calculatorbuild](https://github.com/alexmzztt/PC4-CC3S2/blob/main/.assets/calculatorbuild.jpg)
 
+Para compile
 
+![startspringio](https://github.com/alexmzztt/PC4-CC3S2/blob/main/.assets/startspringio.jpg)
 
+![archivoscalculatorclone](https://github.com/alexmzztt/PC4-CC3S2/blob/main/.assets/archivoscalculatorclone.jpg)
 
 
 
